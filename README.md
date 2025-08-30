@@ -1,14 +1,6 @@
 # Telegram Media Forwarder Bot
 
-A Python bot that automatically forwards media files from multiple Telegram bots to a target channel. Built with Pyrogram and Flask.
-
-## Features
-
-- Monitors multiple Telegram bots for media messages
-- Automatically forwards media to a specified target channel
-- Handles channel membership automatically
-- Web server endpoint for health checks and monitoring
-- Environment-based configuration
+A Telegram user bot that automatically forwards media files from multiple Telegram bots to a target channel. Built with Pyrogram and Flask.
 
 ## Prerequisites
 
