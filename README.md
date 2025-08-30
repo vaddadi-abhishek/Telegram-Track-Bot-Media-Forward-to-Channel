@@ -37,5 +37,5 @@ TARGET_CHANNEL_INVITE=your_channel_invite_link_here
 
 ### Run
 ```bash
-python main.py
+python track-media-forward-to-channel.py
 ```
